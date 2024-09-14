@@ -1,9 +1,8 @@
 # Company-Performance-Insights
-## Requirments :
-Kindly find the attachment csv file to proceed with task questions:
-
-1-From 2016-2021, which ORDER_YEAR had the lowest QUANTITY_SO0LD for Photography products? 
-2-Which PRODUCT_LINE has the highest QUANTITY_SOLD? 
+## Requirments :  
+Kindly find the attachment csv file to proceed with task questions:  
+1-From 2016-2021, which ORDER_YEAR had the lowest QUANTITY_SO0LD for Photography products?   
+2-Which PRODUCT_LINE has the highest QUANTITY_SOLD?   
 3-Which EDUCATION of the loyalty members had the highest amount of QUANTITY_SOLD in 2020? 
 4-What is the CUSTOMER_NAME who provided the highest REVENUE in 2022? 
 
